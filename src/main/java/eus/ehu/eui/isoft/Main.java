@@ -10,4 +10,8 @@ public class Main {
         System.out.println("Esto es un método");
 
     }
+    public static void method2(){
+        System.out.println("Otro método");
+
+    }
 }
